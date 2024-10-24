@@ -1,0 +1,27 @@
+#sevenone{
+    margin-left: 7.5%;
+}
+#sevenone1{
+    color: rgb(110, 109, 109);
+    font-size: 100px;
+    font-weight: bolder;
+}
+#level1{
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+#your1{
+    padding-top: 10px;
+    line-height: 5px;
+    font-size: 20px;
+    font-weight: 500;
+}
+#use1{
+    padding-top: 30px;
+    line-height: 25px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: rgb(110, 109, 109);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

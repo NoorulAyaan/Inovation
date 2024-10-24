@@ -1,0 +1,17 @@
+#fivetwo{
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 120px;
+}
+#fivetwoimage{
+    background-image: url(../../../Assets/Images/fivetwo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    border-radius: 20px;
+}
+#hire{
+    margin-top: 20px;
+    font-size: 18px;
+}

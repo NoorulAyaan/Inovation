@@ -1,0 +1,56 @@
+#nineright{
+    padding: 0 100px 20px 0px;
+    width: 50%;
+    padding-right: 100px;
+}
+#best{
+    margin-left: 10px;
+    font-weight: 600;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#usethisarea{
+    color: gray;
+    margin-left: 10px;
+    margin-top: 40px;
+    line-height: 33px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#makesure{
+    color: gray;
+    margin-left: 10px;
+    margin-right: 50px;
+    margin-top: 40px;
+    line-height: 33px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#thistemplate{
+    color: gray;
+    margin-left: 10px;
+    margin-right: 45px;
+    margin-top: 40px;
+    line-height: 33px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+#twotwenty{
+    margin-left: 10px;
+    font-size: 26px;
+    margin-top: 40px;
+}
+#people{
+    padding: 25px 0 25px 10px;
+    font-size: 18px;
+}
+#ninerightimage{
+    background-image: url(../../../Assets/Images/nineright.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-bottom: 100px;
+}

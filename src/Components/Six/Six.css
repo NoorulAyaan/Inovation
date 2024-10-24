@@ -1,0 +1,16 @@
+#six{
+    background-color: white;
+    padding-bottom: 150px;
+}
+#prace{
+    padding: 150px 0 0 7.5%;
+    font-size: 35px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#six1{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 2.5%;
+}
+

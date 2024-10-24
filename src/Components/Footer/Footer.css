@@ -1,0 +1,18 @@
+#footer{
+    background-color: black;
+    text-align: center;
+}
+#copyright{
+    color: white;
+    padding: 20px 0 20px 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+#ocean{
+    color: orange;
+    text-decoration: none;
+}
+#ocean:hover{
+    color: white;
+    transition-duration: 0.5s;
+}

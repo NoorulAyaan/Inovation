@@ -1,0 +1,8 @@
+#eight{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    background-image: url(../../Assets/Images/eight.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

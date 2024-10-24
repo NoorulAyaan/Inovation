@@ -1,0 +1,16 @@
+#two{
+    height: 350px;
+    width: 100%;
+    margin-top: 160px;
+}
+#startup{
+    font-size: 25px;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+#template{
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

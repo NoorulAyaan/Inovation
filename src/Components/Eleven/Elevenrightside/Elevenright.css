@@ -1,0 +1,73 @@
+#elevenright{
+    width: 50%;
+}
+#form{
+    background-color: white;
+    margin: 110px 100px 50px 0;
+    border-radius: 10px;
+}
+#naam{
+    font-size: 20px;
+    padding: 55px 0 15px 25px;
+}
+#firstname{
+    margin-left: 25px;
+    padding: 8px;
+    font-size: 18px;
+    width: 120px;
+}
+#lastname{
+    padding: 8px;
+    font-size: 18px;
+    width: 120px;
+    margin-left: 25px;
+}
+#parts{
+    padding-left: 25px;
+    display: flex;
+}
+#first{
+    font-size: 15px;
+    color: gray;
+}
+#last{
+    color: gray;
+    font-size: 15px;
+    margin-left: 24.5%;
+    padding: 0 0 25px 0;
+}
+#male{
+    font-size: 20px;
+    padding: 10px 0 0 25px;
+}
+#yourmail{
+    margin-left: 25px;
+    padding: 8px;
+    font-size: 18px;
+}
+#yourmessage{
+    font-size: 20px;
+    padding: 25px 0 0 25px;
+}
+#yourtextarea{
+    margin-left: 25px;
+    font-size: 18px;
+    padding: 8px;
+    height: 100px;
+    width: 80%;
+}
+#submit-form{
+    cursor: pointer;
+    margin: 25px 0 60px 25px;
+    border: none;
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+    background-color: rgb(37, 37, 233);
+}
+#submit-form:hover{
+    background-color: rgb(8, 119, 163);
+    transition-duration: 0.8s;
+}

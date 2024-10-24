@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#container{
+    display: flex;
+    align-items: center;
+    margin-left: 80px;
+}
+#logo{
+    background-image: url(../../../Assets/Logo/logo.png);
+    height: 35px;
+    width: 35px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+}
+#logo-text{
+    font-weight: 500;
+    font-size: 35px;
+    cursor: pointer;
+}
+#logo-text:hover{
+    color: gray;
+    transition-duration: 0.5s;
+}

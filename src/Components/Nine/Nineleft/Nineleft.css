@@ -1,0 +1,39 @@
+#nineleft{
+    width: 50%;
+}
+#nineleftimage{
+    background-image: url(../../../Assets/Images/phone.png);
+    height: 400px;
+    width: 500px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 100px;
+}
+#ninelefttext{
+    margin-top: 300px;
+}
+#client2{
+    padding-left: 100px;
+}
+#useleft{
+    color: gray;
+    font-size: 20px;
+    padding: 35px 30px 10px 100px;
+    line-height: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#leftmakesure{
+    color: gray;
+    line-height: 30px;
+    font-size: 20px;
+    padding: 40px 40px 10px 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#thistemplatehas1{
+    color: gray;
+    line-height: 30px;
+    font-size: 20px;
+    padding: 40px 40px 10px 100px;
+    font-family: 'Times New Roman', Times, serif;
+}

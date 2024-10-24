@@ -1,0 +1,56 @@
+#sixthree{
+    margin-right: 7.5%;
+    margin-top: 25px;
+    height: 510px;
+    background-color: rgb(56, 165, 233);
+    border: none;
+}
+#tier3{
+    margin-left: 20px;
+    padding-top: 40px;
+    color: white;
+}
+#sixthree1{
+    background-color: rgb(39, 157, 230);
+    margin: 20px;
+    color: white;
+}
+#sixthree1 h1{
+    padding: 20px 15px 10px 20px;
+    font-weight: 900;
+    font-size: 35px;
+    color: white;
+}
+#sixthree1 p{
+    margin-left: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding: 0 0 20px 0;
+    color: white;
+}
+#sixthree2{
+    text-align: center;
+}
+#sixthree2 p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 35px;
+    color: white;
+}
+#getstarted3{
+    cursor: pointer;
+    text-align: center;
+    margin: 30px 0 30px 20px;
+    font-size: 18px;
+    padding: 15px 100px;
+    background-color: white;
+    color: rgb(38, 38, 168);
+    font-weight: 600;
+    border: none;
+    border-radius: 3px;
+}
+#getstarted3:hover{
+    color: white;
+    background-color: black;
+    transition-duration: 0.8s;
+}

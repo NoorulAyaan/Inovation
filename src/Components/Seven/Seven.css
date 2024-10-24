@@ -1,0 +1,15 @@
+#seven{    
+    background-color:  rgb(252, 252, 252);
+    padding-bottom: 120px;
+}
+#seven1{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 2.5%;
+}
+#work{
+    padding: 100px 0 20px 7.5%;
+    font-size: 35px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

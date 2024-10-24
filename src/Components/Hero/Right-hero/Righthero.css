@@ -1,0 +1,13 @@
+#code{
+    width: 50%;
+    margin-top: 130px;
+    background-color: white;
+}
+#hero-image{
+    background-image: url(../../../Assets/Images/business.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 625px;
+    width: 100%;
+    border: none;
+}

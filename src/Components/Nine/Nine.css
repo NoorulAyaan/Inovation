@@ -1,0 +1,9 @@
+#client{
+    margin-left: 100px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+#nine1{
+    display: flex;
+    justify-content: space-between;
+}
