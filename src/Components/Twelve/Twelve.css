@@ -38,6 +38,7 @@
     border: 2px solid white;
     background-color: rgb(41, 41, 211);
     padding: 15px 50px;
+    color: white;
 }
 #get-started10:hover{
     background-color: white;

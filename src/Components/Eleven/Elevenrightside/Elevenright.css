@@ -54,7 +54,7 @@
     font-size: 18px;
     padding: 8px;
     height: 100px;
-    width: 80%;
+    max-width: 85%;
 }
 #submit-form{
     cursor: pointer;
