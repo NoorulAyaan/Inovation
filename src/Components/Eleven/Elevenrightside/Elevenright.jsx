@@ -15,7 +15,7 @@ function Elevenright(){
                 <p id="male">Email</p>
                 <input type="text" id="yourmail"/>
                 <p id="yourmessage">Message</p>
-                <textarea name="" id="yourtextarea"></textarea><br />
+                <textarea name="" id="yourtextarea"></textarea><br/>
                 <button id="submit-form">SUBMIT</button>
             </form>
         </div>
