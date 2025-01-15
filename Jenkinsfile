@@ -6,7 +6,7 @@ pipeline {
             steps{
                 echo 'building the application...'
                 echo 'application built'
-                echo 'Hello Ayan;
+                echo 'Hello Ayan'
             }
         }
 
